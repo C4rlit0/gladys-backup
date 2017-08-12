@@ -1,4 +1,4 @@
-# gladys-backup
+# Gladys-Backup
 Gladys database backup to Google Drive
 
 Installation :
