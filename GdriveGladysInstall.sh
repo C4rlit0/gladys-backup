@@ -1,6 +1,6 @@
 #!/bin/bash
 echo '// INSTALLATION //'
-cd /home/pi/
+cd /home/pi/gladys-backup
 echo "Ajout du droit d'execution sur le paquet gdrive et du script de sauvegarde"
 chmod +x gdrive
 chmod +x GdriveGladysBackup.sh
