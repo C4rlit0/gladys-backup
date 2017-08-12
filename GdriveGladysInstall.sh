@@ -3,9 +3,9 @@ echo '// INSTALLATION //'
 cd /home/pi/
 echo "Ajout du droit d'execution sur le paquet gdrive et du script de sauvegarde"
 chmod +x gdrive
-chmod +x GdriveGladysbackup.sh
+chmod +x GdriveGladysBackup.sh
 echo 'Obtention du token Google Drive'
-./grdive about
+./gdrive about
 
 echo '// INITIALISATION //'
 rm GLDS_FLD_ID.txt
