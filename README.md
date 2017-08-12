@@ -16,3 +16,6 @@ Enfin **lancez** `./GdriveGladysInstall.sh` et suivez les instructions
 
 Durant l'installation, un lien sera généré pour autoriser gdrive à accéder à votre compte Google Drive, ce lien est à coller dans votre navigateur.
 Un code à saisir pendant l'installation sera alors fourni.
+
+Vous pourrez alors soit lancer le script `./GdriveGladysBackup.sh` pour effectuer une sauvegarde ponctuelle, soit utliser le systeme d'alarme pour mettre en place une sauvegarde planifiée via CRON.
+
