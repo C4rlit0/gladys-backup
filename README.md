@@ -3,6 +3,9 @@ Gladys database backup to Google Drive
 
 Installation :
 --------------
+**Placez-vous dans le répertoire de base**
+
+    cd /home/pi
 
 **Executez la commande**
 
